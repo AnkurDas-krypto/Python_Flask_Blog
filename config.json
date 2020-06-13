@@ -1,0 +1,20 @@
+{
+	"params":
+	{
+		"local server":"True",
+		"local_uri":"mysql://root:@localhost/firstwebdev",
+		"prod_uri":"mysql://root:@localhost/firstwebdev",
+		"fb_url":"https://facebook.com/ankurdas",
+		"tw_url":"https://twitter.com/ankurdas",
+		"gi_url":"https://github.com/ankurdas",
+		"gmail-user":"ankurdas8017@gmail.com",
+		"blogname":"Ankur Das",
+		"gmail-password":"aaannkuurrr@123",
+		"no_of_posts":2,
+		"user_id":"ankurdas",
+		"user_pass":"ankur",
+		"upload_location":"C:\\Users\\ANKUR\\Documents\\flask\\static"
+
+
+	}
+}
